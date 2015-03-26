@@ -3,6 +3,7 @@
   "autoreplies": [
     [["^sup$"], "sup"],
     [["^sup\\s.*$"], "sup fag"],
+    [["(?i)^one\\sof\\sus$"], "one of us"],
     [["^.*[Dd]*ilbert\\?.*$"], "here you go faggots http://dilbert.com/"]
   ],
   "autoreplies_enabled": true,
