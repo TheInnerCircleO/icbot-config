@@ -1,10 +1,11 @@
 {
   "admins": ["117719264252178167579", "109541384316465743900", "110181089778242180313", "110422048111950594964", "106933377919427088457"],
   "autoreplies": [
-    [["^sup$"], "sup"],
-    [["^sup\\s.*$"], "sup fag"],
+    [["(?i)^s+u+p+\\s+.*$", "(?i)^s+u+p+$"], "sup"],
+    [["(?i)^i\\seat\\sthe\\sfish$"], "MOTHER FUCK"],
+    [["(?i)^n+o+i+c+e+$"], "noice"],
     [["(?i)^one\\sof\\sus$"], "one of us"],
-    [["^.*[Dd]*ilbert\\?.*$"], "here you go faggots http://dilbert.com/"]
+    [["(?i)^so\\smuch\\sfun$"], "so much fun"]
   ],
   "autoreplies_enabled": true,
   "commands_admin": ["rename", "leave", "easteregg", "user", "users", "hangouts", "reload", "quit", "config"],
