@@ -26,5 +26,9 @@
       ]
     }
   },
-  "giphy-apikey": "dc6zaTOxFJmzC"
+  "giphy-apikey": "dc6zaTOxFJmzC",
+  "pr_repos": [
+    "TheInnerCircleO/icbot",
+    "TheInnerCircleO/icbot-config"
+  ]
 }
