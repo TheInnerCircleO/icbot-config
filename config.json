@@ -1,5 +1,11 @@
 {
-  "admins": ["117719264252178167579", "109541384316465743900", "110181089778242180313", "110422048111950594964", "106933377919427088457"],
+  "admins": [
+    "117719264252178167579",
+    "109541384316465743900",
+    "110181089778242180313",
+    "110422048111950594964",
+    "106933377919427088457"
+  ],
   "autoreplies": [
     [["(?i)^s+u+p+\\s+.*$", "(?i)^s+u+p+$"], "sup"],
     [["(?i)^i\\seat\\sthe\\sfish$"], "MOTHER FUCK"],
@@ -8,22 +14,25 @@
     [["(?i)^so\\smuch\\sfun$"], "so much fun"]
   ],
   "autoreplies_enabled": true,
-  "commands_admin": ["rename", "leave", "easteregg", "user", "users", "hangouts", "reload", "quit", "config"],
+  "botalive": ["admins", "groups"],
+  "commands_admin": [
+    "rename",
+    "leave",
+    "easteregg",
+    "user",
+    "users",
+    "hangouts",
+    "reload",
+    "quit",
+    "config"
+  ],
   "commands_enabled": true,
   "forwarding_enabled": true,
   "conversations": {
-    "CONV1_ID": {
-      "forward_to": [
-        "CONV2_ID"
-      ]
-    },
-    "CONV2_ID": {
-      "autoreplies_enabled": false,
-      "commands_enabled": false,
-      "forwarding_enabled": false,
-      "forward_to": [
-        "CONV1_ID"
-      ]
+    "Ugygo5DZj2MRI9TZoY14AaABAQ": {},
+    "UgyUNcd6mi3K3YNtjAF4AaABAQ": {},
+    "UgwOadPqArgyn_V-JQd4AaABAQ": {
+      "cleverbot_percentage_replies": 1
     }
   },
   "giphy-apikey": "dc6zaTOxFJmzC",
