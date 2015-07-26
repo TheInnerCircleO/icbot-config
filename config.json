@@ -7,11 +7,11 @@
     "106933377919427088457"
   ],
   "autoreplies": [
-    [["(?i)^s+u+p+\\s+.*$", "(?i)^s+u+p+$"], "sup"],
-    [["(?i)^i\\seat\\sthe\\sfish$"], "MOTHER FUCK"],
-    [["(?i)^n+o+i+c+e+$"], "noice"],
-    [["(?i)^one\\sof\\sus$"], "one of us"],
-    [["(?i)^so\\smuch\\sfun$"], "so much fun"]
+    [["regex:(?i)^s+u+p+\\s+.*$", "regex:(?i)^s+u+p+$"], "sup"],
+    [["regex:(?i)^i\\seat\\sthe\\sfish$"], "MOTHER FUCK"],
+    [["regex:(?i)^n+o+i+c+e+$"], "noice"],
+    [["regex:(?i)^one\\sof\\sus$"], "one of us"],
+    [["regex:(?i)^so\\smuch\\sfun$"], "so much fun"]
   ],
   "autoreplies_enabled": true,
   "botalive": ["admins", "groups"],
