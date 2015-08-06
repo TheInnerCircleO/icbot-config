@@ -2,9 +2,9 @@ language: python
 python:
     - "3.4"
 
-# Install dependencies
+sudo: false
+
 before_install:
     - sudo apt-get install jq
 
-# Run tests
 script: jq . config.json
