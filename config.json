@@ -11,7 +11,8 @@
     [["regex:(?i)^i\\seat\\sthe\\sfish$"], "MOTHER FUCK"],
     [["regex:(?i)^n+o+i+c+e+$"], "noice"],
     [["regex:(?i)^one\\sof\\sus$"], "one of us"],
-    [["regex:(?i)^so\\smuch\\sfun$"], "so much fun"]
+    [["regex:(?i)^so\\smuch\\sfun$"], "so much fun"],
+    [["regex:(?i)^praise\\sjesus"], "Praise be unto His noodly appendages!"]
   ],
   "autoreplies_enabled": true,
   "botalive": ["admins", "groups"],
