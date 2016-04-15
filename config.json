@@ -39,7 +39,7 @@
   },
   "giphy-apikey": "dc6zaTOxFJmzC",
   "pr_repos": [
-    "TheInnerCircleO/icbot",
+    "TheInnerCircleO/icbot-docker",
     "TheInnerCircleO/icbot-config"
   ]
 }
