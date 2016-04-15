@@ -37,6 +37,7 @@
       "cleverbot_percentage_replies": 1
     }
   },
+  "link_to_guide": "https://github.com/hangoutsbot/hangoutsbot/wiki/User-Guide",
   "mentionall": true,
   "mentionallwhitelist": [],
   "mentionerrors": false,
