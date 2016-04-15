@@ -37,6 +37,10 @@
       "cleverbot_percentage_replies": 1
     }
   },
+  "mentionall": true,
+  "mentionallwhitelist": [],
+  "mentionerrors": false,
+  "mentionquidproquo": true,
   "giphy-apikey": "dc6zaTOxFJmzC",
   "pr_repos": [
     "TheInnerCircleO/icbot-docker",
